@@ -1,0 +1,22 @@
+
+#inicio {
+    background-color: #f0f0f0;
+}
+
+#sobre {
+    background-color: #e9ecef;
+}
+
+img.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: #333;
+}
+
+footer p {
+    margin: 0;
+    font-size: 14px;
+}
